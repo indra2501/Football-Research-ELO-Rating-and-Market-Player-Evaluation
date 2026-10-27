@@ -1,1 +1,0 @@
-# Football-Research-ELO-Rating-and-Market-Player-Evaluation
